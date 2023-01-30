@@ -1,0 +1,13 @@
+src/.Module.symvers.cmd
+src/.modules.order.cmd
+src/.numpad.ko.cmd
+src/.numpad.mod.cmd
+src/.numpad.mod.o.cmd
+src/.numpad.o.cmd
+src/Module.symvers
+src/modules.order
+src/numpad.ko
+src/numpad.mod
+src/numpad.mod.c
+src/numpad.mod.o
+src/numpad.o
